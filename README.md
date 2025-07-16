@@ -37,7 +37,7 @@ Predict the species of the flower:
 
 Shows pairwise relationships between features colored by species:
 
-![Pairplot](pairplot.png)
+![Pairplot](pairplot.png.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ Shows pairwise relationships between features colored by species:
 
 Visualizes correlation between features:
 
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png.jpg)
 
 ---
 
@@ -64,7 +64,7 @@ Visualizes correlation between features:
 
 Evaluates actual vs predicted performance:
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png.jpg)
 
 ---
 
